@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Androidpn</string>
+    <string name="hello">hello</string>
+    <string name="settings">设置</string>
+</resources>
